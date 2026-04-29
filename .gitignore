@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+
+# 发送记录
+sent_pmids.txt
+
+# 测试输出
+test_email_output.html
+
+# IDE
+.vscode/
+.idea/
